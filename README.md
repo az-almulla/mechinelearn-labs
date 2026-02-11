@@ -1,4 +1,4 @@
-Read me: Dataset : Social Media Performance Data fpr kaggle.
+Dataset : Social Media Performance Data for kaggle.
 
 Problem type: Regression (Supervised Learning)
 
