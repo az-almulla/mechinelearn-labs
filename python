@@ -1,0 +1,19 @@
+import pandas as pd
+
+# 1. Load the dataset
+# Replace 'StudentPerformance.csv' with the actual file name you downloaded
+df = pd.read_csv('StudentPerformance.csv')
+
+# 2. Display its shape (rows, columns)
+print("Dataset Shape:")
+print(df.shape)
+print("-" * 30)
+
+# 3. Preview the first few rows
+print("\nFirst 5 Rows:")
+display(df.head()) # Use print(df.head()) if not in Jupyter
+print("-" * 30)
+
+# 4. Check column names and data types
+print("\nColumn Names and Data Types:")
+print(df.info())
