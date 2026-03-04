@@ -1,0 +1,9 @@
+The dataset contains 6,435 rows and 8 columns.
+
+Missing Values: There are 0 missing values in any of the columns. The dataset is complete.
+
+Duplicates: No duplicate rows were found.
+
+Data Types: The Date column was initially an object (string) and should be treated as a datetime object for any time-series analysis. All other columns are appropriate numeric types (int64 or float64).
+
+Statistical Summary: Weekly_Sales ranges from $209,986 to $3,818,686, indicating high variability and potential outliers.
