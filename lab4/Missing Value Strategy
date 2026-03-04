@@ -1,0 +1,4 @@
+As the assessment in Task 1 revealed that the dataset has no missing values,
+he chosen strategy is to maintain the dataset in its current state.
+In cases where missing data is present, a common strategy would be Mean/Median Imputation
+for numerical data to preserve the distribution without losing rows of information.
