@@ -1,0 +1,12 @@
+Principal Component,Individual Explained Variance, Cumulative Explained Variance
+       PC1:                    26.69%            ,          26.69%
+       PC2:                    23.66%            ,          50.36%
+       PC3:                    21.73%            ,          72.09%
+       PC4:                    17.78%            ,          89.87%
+       PC5:                    10.13%            ,          100.00%
+
+Interpretation:
+The first three principal components explain approximately 72% of the total variance in the dataset.
+To capture 90% of the variance, we would need to retain the first four components.
+This suggests that while there is some redundancy among features (like CPI and Unemployment potentially being correlated), 
+the features provide relatively distinct information since it takes 4 out of 5 components to explain 90% of the variance.
